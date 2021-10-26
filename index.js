@@ -29,3 +29,5 @@ const tipCalculator = (sum, percentage, locale, currency) => {
 }
 tipCalculator(30, 15, "en-US", "USD");
 
+// add input fields, make more dynamic
+
